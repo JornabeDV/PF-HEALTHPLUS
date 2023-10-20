@@ -21,4 +21,6 @@ Los desarrolladores pueden contribuir al proyecto creando "pull requests" para m
 
 ![image](https://github.com/JornabeDV/PF-HealthPlus/assets/103864663/6d5cb8ab-153f-474c-94a4-2c02014506df)
 ![image](https://github.com/JornabeDV/PF-HealthPlus/assets/103864663/7d003aff-5655-45e3-beec-7e5fbb23a010)
+![image](https://github.com/JornabeDV/PF-HealthPlus/assets/103864663/2dfedaf4-6a65-47cd-848b-a66aa4430479)
 ![image](https://github.com/JornabeDV/PF-HealthPlus/assets/103864663/69a337a0-3d30-4e18-8263-583a94570f11)
+https://user-images.githubusercontent.com/124411705/276945319-9c0f685e-cb04-4281-b364-f7042c90a4e1.png
